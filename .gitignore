@@ -1,0 +1,9 @@
+.idea
+
+# Client
+client/node_modules
+
+# Server
+server/db.sqlite3
+sever/.idea
+server/env

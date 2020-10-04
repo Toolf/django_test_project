@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Posts",
+    "path": "/Posts",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\Posts\\\\index.vue",
+    "chunkName": "pages/Posts/index",
+    "_name": "_66dbefb8"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_8cbf9e50"
+  },
+  {
+    "name": "Posts-create",
+    "path": "/Posts/create",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\Posts\\\\create.vue",
+    "chunkName": "pages/Posts/create",
+    "_name": "_c7535bf4"
+  },
+  {
+    "name": "Posts-components-Post",
+    "path": "/Posts/components/Post",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\Posts\\\\components\\\\Post.vue",
+    "chunkName": "pages/Posts/components/Post",
+    "_name": "_11188060"
+  },
+  {
+    "name": "Posts-id",
+    "path": "/Posts/:id",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\Posts\\\\_id\\\\index.vue",
+    "chunkName": "pages/Posts/_id/index",
+    "_name": "_89d51f3c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\programming\\\\portfolio\\\\DjangoBlog\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_68ee29ae"
+  }
+]
